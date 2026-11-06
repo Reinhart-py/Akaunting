@@ -1,0 +1,5 @@
+openapi: 3.1.0
+info:
+  title: purchase-spend-analysis
+  version: 1.0.0
+paths: {}

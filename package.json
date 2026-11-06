@@ -1,0 +1,5 @@
+{
+  "name": "accounting-erp-enterprise",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*", "services/*"]
+}

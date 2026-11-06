@@ -1,0 +1,5 @@
+openapi: 3.1.0
+info:
+  title: duplicate-detection
+  version: 1.0.0
+paths: {}

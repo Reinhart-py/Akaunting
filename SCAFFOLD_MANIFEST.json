@@ -1,0 +1,10 @@
+{
+  "project": "Accounting ERP Enterprise Platform",
+  "generated_at_utc": "2026-11-06T03:45:20Z",
+  "module_count": 641,
+  "directory_count": 23542,
+  "file_count": 37784,
+  "total_entries_excluding_root": 61326,
+  "tree_file": "accounting_erp_enterprise_scaffold_tree.txt",
+  "note": "Counts are computed from the actual filesystem contents created for this archive. Most code files are empty starter files; this is a scaffold, not a working application."
+}

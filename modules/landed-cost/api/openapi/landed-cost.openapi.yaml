@@ -1,0 +1,5 @@
+openapi: 3.1.0
+info:
+  title: landed-cost
+  version: 1.0.0
+paths: {}

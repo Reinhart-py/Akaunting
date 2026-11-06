@@ -1,0 +1,5 @@
+openapi: 3.1.0
+info:
+  title: journal-entries
+  version: 1.0.0
+paths: {}

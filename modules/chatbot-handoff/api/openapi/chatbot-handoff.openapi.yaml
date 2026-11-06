@@ -1,0 +1,5 @@
+openapi: 3.1.0
+info:
+  title: chatbot-handoff
+  version: 1.0.0
+paths: {}

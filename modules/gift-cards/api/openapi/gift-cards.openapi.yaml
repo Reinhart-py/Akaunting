@@ -1,0 +1,5 @@
+openapi: 3.1.0
+info:
+  title: gift-cards
+  version: 1.0.0
+paths: {}
